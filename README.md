@@ -45,7 +45,7 @@ First, ensure that you have the latest versions of the tools above installed. No
 
 	- The name of the database is your choice, the file extension, db or sqlite are two possible conventions, again your choice.
 
-- Run the following commands, the first runs the script, the second to displays the tables confirming the structure
+- Run the following commands in Terminal, the first runs the script, the second opens the SQLite3 and the database, and the third displays the tables confirming the structure:
 
 		- $ sqlite3 Jitbit_sql_questions.db < create_db.sql
         - $ sqlite3 Jitbit_sql_questions.db
@@ -57,4 +57,4 @@ Go to [Jitbit's SQL interview questions](http://www.jitbit.com/news/181-jitbits-
 #### File Manifest ####
 - README.md
 - create_db.sql
-- jitbit_sql_solutions.sql(pending)
+- jitbit_sql_solutions.sql
