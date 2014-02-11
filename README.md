@@ -5,8 +5,8 @@ An sql challenge presented by Jitbit used as a screener in their interview quest
 
 Project Links
 -------------
- - [Homepage](diek.ca)
- - [Git Repository](git://github.com/diek/jitbit_sql_challenge.git)
+ - [Homepage](http://diek.ca)
+ - [Git Repository](https://github.com/diek/jitbit_sql_challenge.git)
 
 
 
