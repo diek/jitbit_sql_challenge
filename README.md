@@ -6,7 +6,7 @@ An sql challenge presented by Jitbit used as a screener in their interview quest
 Project Links
 -------------
  - [Homepage](diek.ca)
- - [Git Repository](git://github.com/diek/jitbits_sql_challenge.git)
+ - [Git Repository](git://github.com/diek/jitbit_sql_challenge.git)
 
 
 
